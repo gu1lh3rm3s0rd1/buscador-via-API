@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+}
+/* --------------------------------------- */
+
+/* div container */
+.search-container {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+/* input */
+.search-container input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
+
+/* input */
+.search-container input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+/* input */
+.search-container input[type=submit]:hover {
+  background-color: #45a049;
+}
+/* --------------------------------------- */
+
+/* botao pesqusiar */
+.search-container button[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
+
+/* botao pesqusiar */
+.search-container button[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+/* botao pesqusiar */
+.search-container button[type=submit]:hover {
+  background-color: #45a049;
+}
+/* --------------------------------------- */
+
+/* div que armazena os resultados da busca */
+.results-container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.result {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.result h3 {
+  margin: 0;
+}
+
+.result a {
+  text-decoration: none;
+  color: #0066c0;
+}
+
+.result p {
+  margin: 0;
+  color: #666;
+}
+/* --------------------------------------- */

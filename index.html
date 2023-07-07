@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Buscador</title>
+
+  <script src="index.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"
+    integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.js"
+    integrity="sha512-8Z5++K1rB3U+USaLKG6oO8uWWBhdYsM3hmdirnOEWp8h2B1aOikj5zBzlXs8QOrvY9OxEnD2QDkbSKKpfqcIWw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <style>
+    .align-content {
+      text-align: center;
+    }
+  </style>
+
+</head>
+
+<body>
+  <h1>Pagina de Busca</h1>
+
+  <h2>Pesquisa de Produtos com Api</h2>
+  <div class="search-container">
+    <form id="busca">
+      <input type="text" id="input" placeholder="Digite o produto que deseja pesquisar" />
+      <button type="submit">Pesquisar</button>
+    </form>
+  </div>
+
+  <div id="results" class="results-container">
+    <!-- mostra os produtos da tcheba da api -->
+  </div>
+
+  <script src="index.js"></script>
+
+  <script>
+    $('#results').addClass('align-content')
+  </script>
+</body>
+
+</html>
