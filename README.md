@@ -51,9 +51,9 @@ Contribuições são bem-vindas! Se você deseja melhorar ou adicionar novas fun
 
 ## Autor
 
-Nome: Guilherme Benjamin Sordi
-GitHub: [gu1lh3rm3s0rd1](https://github.com/gu1lh3rm3s0rd1)
-LinkedIn: [guilhermesordi](https://www.linkedin.com/in/guilherme-sordi-33ab06233/)
+ - Nome: Guilherme Benjamin Sordi
+ - GitHub: [gu1lh3rm3s0rd1](https://github.com/gu1lh3rm3s0rd1)
+ - LinkedIn: [guilhermesordi](https://www.linkedin.com/in/guilherme-sordi-33ab06233/)
 
 ## Licença
 
