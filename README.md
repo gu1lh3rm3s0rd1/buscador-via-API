@@ -1,9 +1,6 @@
 # Buscador de Produtos
 
 Aplicação feita com JavaScript e a API do Mercado Livre.
-
-## Buscador de Produtos via API
-
 Este projeto é um buscador de produtos que consome dados de uma API externa para obter informações sobre os produtos disponíveis. O usuário pode pesquisar por palavras-chave e visualizar os detalhes de cada produto encontrado.
 
 ## Funcionalidades
