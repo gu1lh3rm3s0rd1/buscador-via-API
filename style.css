@@ -2,9 +2,11 @@ body {
   font-family: Arial, sans-serif;
 }
 
-h1, h2 {
+h1,
+h2 {
   text-align: center;
 }
+
 /* --------------------------------------- */
 
 /* div container */
@@ -37,6 +39,7 @@ h1, h2 {
 .search-container input[type=submit]:hover {
   background-color: #45a049;
 }
+
 /* --------------------------------------- */
 
 /* botao pesqusiar */
@@ -61,6 +64,7 @@ h1, h2 {
 .search-container button[type=submit]:hover {
   background-color: #45a049;
 }
+
 /* --------------------------------------- */
 
 /* div que armazena os resultados da busca */
@@ -90,4 +94,5 @@ h1, h2 {
   margin: 0;
   color: #666;
 }
+
 /* --------------------------------------- */
